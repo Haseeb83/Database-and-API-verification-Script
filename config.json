@@ -1,0 +1,14 @@
+{
+  "files": ["config.json", "verify.py", "dummy.db"],
+  "database": {
+    "path": "dummy.db",
+    "tables": {
+      "users": ["id", "name", "email"]
+    }
+  },
+  "apis": [
+    "https://jsonplaceholder.typicode.com/posts/1",
+    "https://jsonplaceholder.typicode.com/invalid"
+  ],
+  "manifest": ["verify.py", "config.json", "dummy.db"]
+}

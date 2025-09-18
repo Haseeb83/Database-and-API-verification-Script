@@ -1,0 +1,18 @@
+2025-09-16 23:32:08,917 - INFO - File check passed for config.json
+2025-09-16 23:32:08,917 - INFO - File check passed for verify.py
+2025-09-16 23:32:08,917 - INFO - File check passed for dummy.db
+2025-09-16 23:32:08,939 - ERROR - Database error on users: file is not a database
+2025-09-16 23:32:10,254 - INFO - API check passed for https://jsonplaceholder.typicode.com/posts/1
+2025-09-16 23:32:12,231 - ERROR - API check failed for https://jsonplaceholder.typicode.com/invalid: status 404
+2025-09-16 23:32:12,233 - INFO - Manifest hash generated for verify.py
+2025-09-16 23:32:12,234 - INFO - Manifest hash generated for config.json
+2025-09-16 23:32:12,234 - INFO - Manifest hash generated for dummy.db
+2025-09-16 23:34:09,452 - INFO - File check passed for config.json
+2025-09-16 23:34:09,452 - INFO - File check passed for verify.py
+2025-09-16 23:34:09,452 - INFO - File check passed for dummy.db
+2025-09-16 23:34:09,452 - INFO - Database check passed for table users
+2025-09-16 23:34:10,780 - INFO - API check passed for https://jsonplaceholder.typicode.com/posts/1
+2025-09-16 23:34:12,127 - ERROR - API check failed for https://jsonplaceholder.typicode.com/invalid: status 404
+2025-09-16 23:34:12,127 - INFO - Manifest hash generated for verify.py
+2025-09-16 23:34:12,127 - INFO - Manifest hash generated for config.json
+2025-09-16 23:34:12,127 - INFO - Manifest hash generated for dummy.db
